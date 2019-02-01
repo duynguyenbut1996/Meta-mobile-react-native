@@ -1,0 +1,418 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:react-native-image-picker] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-23:12
+MERGED from [:react-native-fabric] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-fabric/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-i18n] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-i18n/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-gesture-handler] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-device-info] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-device-info/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-fbsdk] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-fbsdk/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:21:1-30:12
+MERGED from [com.facebook.react:react-native:0.57.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/1e8a4f6b62c83e0397ac0a471d2198e5/AndroidManifest.xml:2:1-15:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/0bfd4c90b686ba7e347ab934ccd7323e/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/c25b0a5bf36cdbd27cce62a3d8e4bda8/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/258b00824359d81b744021184fcaeb4e/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/cce10372915eb18aa9cc2435c1d941cc/AndroidManifest.xml:21:1-37:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8ba83684cf25985bb279e0587b872bdb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/ae537bcdbc1bc620662e769fc9268a34/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.0.0.aar/2b0dfc99c0f7f6ad7fd19f2ada2b066b/AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.android:facebook-places:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/d51f14e33ae79530f66922742e4bf391/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/afef7417f87eed98b7e085c811c8da2d/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/2c2db46c09b64714a0ff5a1098d6b1d2/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/5b9309642c3cd44ad89b67172edcb465/AndroidManifest.xml:21:1-35:12
+MERGED from [com.facebook.android:facebook-core:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/1f2a1d20781fcd11085925c15bcfef96/AndroidManifest.xml:21:1-53:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/a1fd5b594880fadc77e43eccdfa43f69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/4c27e30a2e9765493943494b3bbfb89e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.0.aar/bba5b6333ec2bb58c9bcc89b9e219a48/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ddbc8c04a863dc039b180682c35bc888/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/aff5b15f72b1d4ee05d532726195beb1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/754363a577ce1d96d6e0fd313051fa09/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/dc8996ec7bcac5a01c33b0254d7a522d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/b6db941cc2d892f1e8159fd3c0fb8f02/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/336e4ebdf70e1c2dd55a5d8ce8a5391c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4c11f32c8ef83c09b4a1364c17174c33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d612c9ddc334f05d4433f659303d3ba2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/bce2aed0aaacf9c1bcc642c6365788f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/33b0ddbd3de5b10173b72665b21d0aa9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a177dddbd02f52ee9a6b841ecf27c14d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/43bc360e2bf1f5e15ceb1b362739c190/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/3bbdd9ec2b40f78ba465f0c9ed15c8de/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f8c217033fef1ac007c5017bc074e78a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/1f6c0bf1224ad1c1f4a7eda42d69fecb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/ef1907482046ad1003c6cbac1a2647c6/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/5690db00251fa7672a5014f5e6fa51cb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/e187df1feb9e567913a43243bccab4fd/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/af2ee7d8f6eb21d90d41bc9149cb10ba/AndroidManifest.xml:1:1-3:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4c0e886e4e3e5420e1b2b42c8422c630/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/39405122e91f8b11cc02cb9bc828fb85/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/f8c37b3300592ca896a4848adcfe748d/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/03bd283f8f310dda3303f702a96c145a/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/58ae37cb97e8858710902aaa936b5923/AndroidManifest.xml:17:1-22:12
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/4f55b1ec911cd645d785a956c8eedaae/AndroidManifest.xml:2:1-13:12
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.7.aar/d08c390440b95d6ffe13eac44319fb54/AndroidManifest.xml:45:1-56:12
+MERGED from [com.crashlytics.sdk.android:answers:1.4.6] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/answers-1.4.6.aar/e1c0e89925c40eae5577d453533e9f1b/AndroidManifest.xml:2:1-13:12
+MERGED from [io.fabric.sdk.android:fabric:1.4.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/fabric-1.4.7.aar/138c5991563f6a917c3ae0859b74758e/AndroidManifest.xml:22:1-33:12
+INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:1:1-33:12
+	package
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:2:5-29
+		INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/ae537bcdbc1bc620662e769fc9268a34/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/ae537bcdbc1bc620662e769fc9268a34/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.0.0.aar/2b0dfc99c0f7f6ad7fd19f2ada2b066b/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.0.0.aar/2b0dfc99c0f7f6ad7fd19f2ada2b066b/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.0.aar/bba5b6333ec2bb58c9bcc89b9e219a48/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.0.aar/bba5b6333ec2bb58c9bcc89b9e219a48/AndroidManifest.xml:24:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/4f55b1ec911cd645d785a956c8eedaae/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/4f55b1ec911cd645d785a956c8eedaae/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.7.aar/d08c390440b95d6ffe13eac44319fb54/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.7.aar/d08c390440b95d6ffe13eac44319fb54/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.6] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/answers-1.4.6.aar/e1c0e89925c40eae5577d453533e9f1b/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.6] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/answers-1.4.6.aar/e1c0e89925c40eae5577d453533e9f1b/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/fabric-1.4.7.aar/138c5991563f6a917c3ae0859b74758e/AndroidManifest.xml:29:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/fabric-1.4.7.aar/138c5991563f6a917c3ae0859b74758e/AndroidManifest.xml:29:5-67
+	android:name
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:6:5-77
+MERGED from [com.facebook.react:react-native:0.57.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/1e8a4f6b62c83e0397ac0a471d2198e5/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/1e8a4f6b62c83e0397ac0a471d2198e5/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:6:22-75
+uses-permission#android.permission.CAMERA
+ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:8:22-78
+application
+ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:10:5-31:19
+MERGED from [:react-native-image-picker] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-image-picker] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:5-21:19
+MERGED from [:react-native-fbsdk] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-fbsdk/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:28:5-20
+MERGED from [:react-native-fbsdk] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-fbsdk/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:28:5-20
+MERGED from [com.facebook.react:react-native:0.57.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/1e8a4f6b62c83e0397ac0a471d2198e5/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/1e8a4f6b62c83e0397ac0a471d2198e5/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/0bfd4c90b686ba7e347ab934ccd7323e/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/0bfd4c90b686ba7e347ab934ccd7323e/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/c25b0a5bf36cdbd27cce62a3d8e4bda8/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/c25b0a5bf36cdbd27cce62a3d8e4bda8/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/258b00824359d81b744021184fcaeb4e/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/258b00824359d81b744021184fcaeb4e/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/cce10372915eb18aa9cc2435c1d941cc/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-common:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/cce10372915eb18aa9cc2435c1d941cc/AndroidManifest.xml:28:5-35:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/ae537bcdbc1bc620662e769fc9268a34/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/ae537bcdbc1bc620662e769fc9268a34/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.0.0.aar/2b0dfc99c0f7f6ad7fd19f2ada2b066b/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.0.0.aar/2b0dfc99c0f7f6ad7fd19f2ada2b066b/AndroidManifest.xml:26:5-20
+MERGED from [com.facebook.android:facebook-places:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/d51f14e33ae79530f66922742e4bf391/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/d51f14e33ae79530f66922742e4bf391/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/afef7417f87eed98b7e085c811c8da2d/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/afef7417f87eed98b7e085c811c8da2d/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/2c2db46c09b64714a0ff5a1098d6b1d2/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/2c2db46c09b64714a0ff5a1098d6b1d2/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/5b9309642c3cd44ad89b67172edcb465/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/5b9309642c3cd44ad89b67172edcb465/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-core:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/1f2a1d20781fcd11085925c15bcfef96/AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/1f2a1d20781fcd11085925c15bcfef96/AndroidManifest.xml:28:5-51:19
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.0.aar/bba5b6333ec2bb58c9bcc89b9e219a48/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.0.aar/bba5b6333ec2bb58c9bcc89b9e219a48/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ddbc8c04a863dc039b180682c35bc888/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ddbc8c04a863dc039b180682c35bc888/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/aff5b15f72b1d4ee05d532726195beb1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/aff5b15f72b1d4ee05d532726195beb1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/754363a577ce1d96d6e0fd313051fa09/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/754363a577ce1d96d6e0fd313051fa09/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/dc8996ec7bcac5a01c33b0254d7a522d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/dc8996ec7bcac5a01c33b0254d7a522d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/e187df1feb9e567913a43243bccab4fd/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/e187df1feb9e567913a43243bccab4fd/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/af2ee7d8f6eb21d90d41bc9149cb10ba/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/af2ee7d8f6eb21d90d41bc9149cb10ba/AndroidManifest.xml:2:3-17
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/4f55b1ec911cd645d785a956c8eedaae/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/4f55b1ec911cd645d785a956c8eedaae/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.7.aar/d08c390440b95d6ffe13eac44319fb54/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.7.aar/d08c390440b95d6ffe13eac44319fb54/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.6] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/answers-1.4.6.aar/e1c0e89925c40eae5577d453533e9f1b/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.6] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/answers-1.4.6.aar/e1c0e89925c40eae5577d453533e9f1b/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/fabric-1.4.7.aar/138c5991563f6a917c3ae0859b74758e/AndroidManifest.xml:31:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/fabric-1.4.7.aar/138c5991563f6a917c3ae0859b74758e/AndroidManifest.xml:31:5-20
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/0bfd4c90b686ba7e347ab934ccd7323e/AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:12:7-39
+	android:icon
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:13:7-41
+	android:allowBackup
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:14:7-34
+	android:theme
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:15:7-38
+	android:name
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:11:7-38
+activity#us.meta.mobile.MainActivity
+ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:16:7-25:18
+	android:label
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:18:9-41
+	android:windowSoftInputMode
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:20:9-51
+	android:configChanges
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:19:9-79
+	android:name
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:17:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:23:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:26:7-84
+	android:name
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:26:17-81
+meta-data#io.fabric.ApiKey
+ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:27:7-29:68
+	android:value
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:29:9-65
+	android:name
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:28:9-40
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:30:7-105
+	android:value
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:30:64-103
+	android:name
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:30:18-63
+uses-sdk
+INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-image-picker] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fabric] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-fabric/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fabric] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-fabric/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-i18n] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-i18n/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-i18n] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-i18n/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-vector-icons/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-gesture-handler/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-device-info/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-device-info] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-device-info/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fbsdk] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-fbsdk/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-fbsdk/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.react:react-native:0.57.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/1e8a4f6b62c83e0397ac0a471d2198e5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/1e8a4f6b62c83e0397ac0a471d2198e5/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/0bfd4c90b686ba7e347ab934ccd7323e/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.34.0.aar/0bfd4c90b686ba7e347ab934ccd7323e/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/c25b0a5bf36cdbd27cce62a3d8e4bda8/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-login-4.34.0.aar/c25b0a5bf36cdbd27cce62a3d8e4bda8/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/258b00824359d81b744021184fcaeb4e/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-share-4.34.0.aar/258b00824359d81b744021184fcaeb4e/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/cce10372915eb18aa9cc2435c1d941cc/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/cce10372915eb18aa9cc2435c1d941cc/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8ba83684cf25985bb279e0587b872bdb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/8ba83684cf25985bb279e0587b872bdb/AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/ae537bcdbc1bc620662e769fc9268a34/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/ae537bcdbc1bc620662e769fc9268a34/AndroidManifest.xml:7:5-43
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.0.0.aar/2b0dfc99c0f7f6ad7fd19f2ada2b066b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.0.0.aar/2b0dfc99c0f7f6ad7fd19f2ada2b066b/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/d51f14e33ae79530f66922742e4bf391/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-places-4.34.0.aar/d51f14e33ae79530f66922742e4bf391/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/afef7417f87eed98b7e085c811c8da2d/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.34.0.aar/afef7417f87eed98b7e085c811c8da2d/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/2c2db46c09b64714a0ff5a1098d6b1d2/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.34.0.aar/2c2db46c09b64714a0ff5a1098d6b1d2/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/5b9309642c3cd44ad89b67172edcb465/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/5b9309642c3cd44ad89b67172edcb465/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/1f2a1d20781fcd11085925c15bcfef96/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/1f2a1d20781fcd11085925c15bcfef96/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/a1fd5b594880fadc77e43eccdfa43f69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/a1fd5b594880fadc77e43eccdfa43f69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/4c27e30a2e9765493943494b3bbfb89e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/customtabs-27.0.2.aar/4c27e30a2e9765493943494b3bbfb89e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.0.aar/bba5b6333ec2bb58c9bcc89b9e219a48/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.0.aar/bba5b6333ec2bb58c9bcc89b9e219a48/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ddbc8c04a863dc039b180682c35bc888/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ddbc8c04a863dc039b180682c35bc888/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/aff5b15f72b1d4ee05d532726195beb1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-stats-16.0.1.aar/aff5b15f72b1d4ee05d532726195beb1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/754363a577ce1d96d6e0fd313051fa09/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-tasks-16.0.1.aar/754363a577ce1d96d6e0fd313051fa09/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/dc8996ec7bcac5a01c33b0254d7a522d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/dc8996ec7bcac5a01c33b0254d7a522d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/b6db941cc2d892f1e8159fd3c0fb8f02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/b6db941cc2d892f1e8159fd3c0fb8f02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/336e4ebdf70e1c2dd55a5d8ce8a5391c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/336e4ebdf70e1c2dd55a5d8ce8a5391c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4c11f32c8ef83c09b4a1364c17174c33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/4c11f32c8ef83c09b4a1364c17174c33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d612c9ddc334f05d4433f659303d3ba2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/d612c9ddc334f05d4433f659303d3ba2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/bce2aed0aaacf9c1bcc642c6365788f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/bce2aed0aaacf9c1bcc642c6365788f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/33b0ddbd3de5b10173b72665b21d0aa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/33b0ddbd3de5b10173b72665b21d0aa9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a177dddbd02f52ee9a6b841ecf27c14d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/a177dddbd02f52ee9a6b841ecf27c14d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/43bc360e2bf1f5e15ceb1b362739c190/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/43bc360e2bf1f5e15ceb1b362739c190/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/3bbdd9ec2b40f78ba465f0c9ed15c8de/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/3bbdd9ec2b40f78ba465f0c9ed15c8de/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f8c217033fef1ac007c5017bc074e78a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/f8c217033fef1ac007c5017bc074e78a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/1f6c0bf1224ad1c1f4a7eda42d69fecb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/1f6c0bf1224ad1c1f4a7eda42d69fecb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/ef1907482046ad1003c6cbac1a2647c6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/ef1907482046ad1003c6cbac1a2647c6/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/5690db00251fa7672a5014f5e6fa51cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/5690db00251fa7672a5014f5e6fa51cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/e187df1feb9e567913a43243bccab4fd/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/e187df1feb9e567913a43243bccab4fd/AndroidManifest.xml:7:5-9:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4c0e886e4e3e5420e1b2b42c8422c630/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/4c0e886e4e3e5420e1b2b42c8422c630/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/39405122e91f8b11cc02cb9bc828fb85/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/39405122e91f8b11cc02cb9bc828fb85/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/f8c37b3300592ca896a4848adcfe748d/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/f8c37b3300592ca896a4848adcfe748d/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/03bd283f8f310dda3303f702a96c145a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/03bd283f8f310dda3303f702a96c145a/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/58ae37cb97e8858710902aaa936b5923/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/58ae37cb97e8858710902aaa936b5923/AndroidManifest.xml:20:5-44
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/4f55b1ec911cd645d785a956c8eedaae/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/beta-1.2.10.aar/4f55b1ec911cd645d785a956c8eedaae/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.7.aar/d08c390440b95d6ffe13eac44319fb54/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.6.7.aar/d08c390440b95d6ffe13eac44319fb54/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.6] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/answers-1.4.6.aar/e1c0e89925c40eae5577d453533e9f1b/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.6] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/answers-1.4.6.aar/e1c0e89925c40eae5577d453533e9f1b/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/fabric-1.4.7.aar/138c5991563f6a917c3ae0859b74758e/AndroidManifest.xml:27:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.7] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/fabric-1.4.7.aar/138c5991563f6a917c3ae0859b74758e/AndroidManifest.xml:27:5-43
+INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml
+INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml
+		ADDED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml
+		INJECTED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [:react-native-image-picker] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [:react-native-image-picker] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [:react-native-image-picker] /home/duynguyen/zaloex/meta-mobile-rn/metamobile/node_modules/react-native-image-picker/android/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:17-67
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/cce10372915eb18aa9cc2435c1d941cc/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/cce10372915eb18aa9cc2435c1d941cc/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/cce10372915eb18aa9cc2435c1d941cc/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/cce10372915eb18aa9cc2435c1d941cc/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/cce10372915eb18aa9cc2435c1d941cc/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/cce10372915eb18aa9cc2435c1d941cc/AndroidManifest.xml:33:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/cce10372915eb18aa9cc2435c1d941cc/AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-common-4.34.0.aar/cce10372915eb18aa9cc2435c1d941cc/AndroidManifest.xml:34:19-64
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/ae537bcdbc1bc620662e769fc9268a34/AndroidManifest.xml:12:9-16:38
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/ae537bcdbc1bc620662e769fc9268a34/AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/ae537bcdbc1bc620662e769fc9268a34/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/ae537bcdbc1bc620662e769fc9268a34/AndroidManifest.xml:16:13-35
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/crashlytics-2.9.8.aar/ae537bcdbc1bc620662e769fc9268a34/AndroidManifest.xml:13:13-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:16.0.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.0.0.aar/2b0dfc99c0f7f6ad7fd19f2ada2b066b/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.0.aar/bba5b6333ec2bb58c9bcc89b9e219a48/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-iid-16.0.0.aar/bba5b6333ec2bb58c9bcc89b9e219a48/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:16.0.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-gcm-16.0.0.aar/2b0dfc99c0f7f6ad7fd19f2ada2b066b/AndroidManifest.xml:23:22-79
+provider#com.facebook.marketing.internal.MarketingInitProvider
+ADDED from [com.facebook.android:facebook-marketing:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/5b9309642c3cd44ad89b67172edcb465/AndroidManifest.xml:29:9-32:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/5b9309642c3cd44ad89b67172edcb465/AndroidManifest.xml:31:13-73
+	android:exported
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/5b9309642c3cd44ad89b67172edcb465/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-marketing-4.34.0.aar/5b9309642c3cd44ad89b67172edcb465/AndroidManifest.xml:30:13-81
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/1f2a1d20781fcd11085925c15bcfef96/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/1f2a1d20781fcd11085925c15bcfef96/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/1f2a1d20781fcd11085925c15bcfef96/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/1f2a1d20781fcd11085925c15bcfef96/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/1f2a1d20781fcd11085925c15bcfef96/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/1f2a1d20781fcd11085925c15bcfef96/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/1f2a1d20781fcd11085925c15bcfef96/AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/1f2a1d20781fcd11085925c15bcfef96/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/1f2a1d20781fcd11085925c15bcfef96/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/facebook-core-4.34.0.aar/1f2a1d20781fcd11085925c15bcfef96/AndroidManifest.xml:48:25-92
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ddbc8c04a863dc039b180682c35bc888/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ddbc8c04a863dc039b180682c35bc888/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ddbc8c04a863dc039b180682c35bc888/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-base-16.0.1.aar/ddbc8c04a863dc039b180682c35bc888/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/dc8996ec7bcac5a01c33b0254d7a522d/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/dc8996ec7bcac5a01c33b0254d7a522d/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /home/duynguyen/.gradle/caches/transforms-1/files-1.1/play-services-basement-16.0.1.aar/dc8996ec7bcac5a01c33b0254d7a522d/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:1:1-33:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /home/duynguyen/zaloex/meta-mobile-rn/metamobile/android/app/src/main/AndroidManifest.xml:1:1-33:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

@@ -1,0 +1,40 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'metamobile' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for metamobile
+  pod 'Fabric'
+  pod 'Crashlytics'
+  pod 'Firebase/Core'
+  pod 'Firebase/Core'
+
+
+
+  pod 'react-native-fbsdk', :path => '../node_modules/react-native-fbsdk'
+
+  pod 'ReactNativeFabric', :path => '../node_modules/react-native-fabric'
+
+  pod 'react-native-image-picker', :path => '../node_modules/react-native-image-picker'
+
+  target 'metamobileTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
+target 'metamobile-tvOS' do
+  # Uncomment the next line if you're using Swift or would like to use dynamic frameworks
+  # use_frameworks!
+
+  # Pods for metamobile-tvOS
+
+  target 'metamobile-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

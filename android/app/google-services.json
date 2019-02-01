@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "327241715638",
+    "firebase_url": "https://meta-staging.firebaseio.com",
+    "project_id": "meta-staging",
+    "storage_bucket": "meta-staging.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327241715638:android:1a32d7fdcd375943",
+        "android_client_info": {
+          "package_name": "us.meta.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327241715638-8vpu8c2rr7tlg9lgk8tsa9jesarbu8mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaMPeBBMDdBL5ehLONJ3Q5bgy0i7bLZm0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
